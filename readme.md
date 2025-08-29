@@ -14,4 +14,4 @@
 *   **NHLWEBCAST:** `https://pigscanflyyy-scraper.vercel.app/nhlwebcast`
 
 ##
-Join our discord: https://discord.gg/SDTP3JbK
+Join our discord: https://discord.gg/7EQYgsrsBe
